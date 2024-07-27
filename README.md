@@ -35,7 +35,7 @@ GOOGLE_MAPS_API_KEY=your_api_key_here
 
 ```bash
 git clone git@github.com:Michael-Doug/meet-point-integrations.git
-cd meet-point
+cd meet-point-integrations
 ```
 
 ## Contribuição
