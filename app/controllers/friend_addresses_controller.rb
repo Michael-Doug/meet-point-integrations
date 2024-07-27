@@ -1,6 +1,7 @@
 class FriendAddressesController < ApplicationController
   before_action :set_friend_address, only: [:show, :update, :destroy]
 
+  # teste 
   def index
     @friend_addresses = FriendAddress.all
     render json: @friend_addresses
