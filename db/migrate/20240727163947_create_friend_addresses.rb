@@ -5,6 +5,7 @@ class CreateFriendAddresses < ActiveRecord::Migration[6.1]
       t.string        :neighborhood
       t.string        :street
       t.string        :number
+      t.string        :complement
       t.string        :city
       t.string        :state
       t.string        :zip
